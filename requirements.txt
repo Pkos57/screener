@@ -1,6 +1,0 @@
-ccxt
-pandas
-numpy
-matplotlib
-websockets
-pyTelegramBotAPI
